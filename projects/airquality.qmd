@@ -1,0 +1,48 @@
+---
+title: "Air Quaity in Columbus"
+image: 
+categories:
+    - Intro HS
+    - Math
+    - Physical Science
+    - Physics
+    - Data Science
+    - Spreadsheets
+    - Sustainability
+    - Environmental Science
+    - Public Health
+    - Earth Science
+---
+
+Analyze air quality from U.S. Environmental Protection Agency
+
+##Intro
+
+In this activity, we analyze air quality data collected by the U.S. Environmental Protection Agency. We will use a spreadsheet of Columbus pollutants to track PM2.5 levels and understand the Air Quality Index (AQI) over time
+
+## Links to Activity
+Instructions for the activity, both data collection and data analysis, are given in the playlist shown below.
+
+* [Air Quality System(AQS)](https://www.epa.gov/outdoor-air-quality-data/download-daily-data)
+* [Air Quility Data Spreadsheet](https://www.asc.ohio-state.edu/orban.14/stemcoding/pressure/barometer_lab.pdf)
+* [How do a trendline with Google Sheets and Excel](https://www.asc.ohio-state.edu/orban.14/stemcoding/pressure/lin_reg_instructions.pdf)
+* [Example data (pdf)](https://www.asc.ohio-state.edu/orban.14/stemcoding/pressure/pressure_sample_data.pdf) [Example data (csv)](https://www.asc.ohio-state.edu/orban.14/stemcoding/pressure/sample_data.csv)
+
+## Equipment
+
+One of the following is sufficient for this activity:
+
+* A smartphone (iPhone or android) with a built-in pressure sensor (nearly all smartphones have this)
+* A tablet (iPad or Android) with a built-in pressure sensor (nearly all tablets have this)
+* A digital altimeter for hiking, we recommend [this model](https://www.amazon.com/dp/B0F485VTBJ) or similar
+* A pressure sensor from adafruit or ardunio  (requires familiarity with adafruit or arduino)
+* A wireless or USB pressure sensor from an educational vendor like Vernier or Pasco (may require other equipment from these vendors to work)
+
+## Software
+
+We recommend the [Arduino Science Journal app](https://www.arduino.cc/education/science-journal) for iOS or Android
+
+Other physics apps that use and display smartphone sensor data would also work fine (let us know if you have a favorite!)
+
+## Air Pressure Versus Height Playlist
+
