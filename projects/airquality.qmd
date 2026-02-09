@@ -24,6 +24,7 @@ In this activity, we analyze air quality data collected by the U.S. Environmenta
 Instructions for the activity, both data collection and data analysis, are given in the playlist shown below.
 
 * [Air Quality System(AQS)](https://www.epa.gov/outdoor-air-quality-data/download-daily-data)
+* [Air Quality All](
 * [Columbus Pollutants Data (CSV)](
 
 ## Software
