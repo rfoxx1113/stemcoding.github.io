@@ -1,5 +1,5 @@
 ---
-title: "Air Quaity in Columbus"
+title: "Air Quaity Data Science Activity"
 image: "./air-quality_image.png"
 categories:
     - Intro HS
@@ -18,7 +18,7 @@ Analyze air quality from U.S. Environmental Protection Agency
 
 ## Intro
 
-In this activity, we analyze air quality data collected by the U.S. Environmental Protection Agency. We will use a spreadsheet of Columbus pollutants to track PM2.5 levels and understand the Air Quality Index (AQI) over time
+In this activity, we analyze air quality data collected by the U.S. Environmental Protection Agency. We will use a spreadsheet of Columbus pollutants to track PM2.5 levels and understand the Air Quality Index (AQI) over time. 
 
 ## Links to data
 
@@ -26,5 +26,12 @@ In this activity, we analyze air quality data collected by the U.S. Environmenta
 * [Download All Air Quality Data (CSV)](./air-quality_all.csv)
 * [Download Columbus Pollutants Data (CSV)](./columbus-pollutants.csv)
 
+## Data Dictionary
+
+* PM2.5: Tiny particles in the air that can affect your health.
+* AQI: The "Air Quality Index"—a score to tell you how clean or polluted the air is.
+* Mean/Median: The average and middle values of the measurements.
+
+Can you find the specific day in June 2023 when the air quality hit 134.9 µg/m³?
 
 
