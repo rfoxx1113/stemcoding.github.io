@@ -20,11 +20,11 @@ Analyze air quality from U.S. Environmental Protection Agency
 
 In this activity, we analyze air quality data collected by the U.S. Environmental Protection Agency. We will use a spreadsheet of Columbus pollutants to track PM2.5 levels and understand the Air Quality Index (AQI) over time
 
-## Links to Activity
-Instructions for the activity, both data collection and data analysis, are given in the playlist shown below.
+## Links to data
 
 * [Air Quality System(AQS)](https://www.epa.gov/outdoor-air-quality-data/download-daily-data)
 * [Download All Air Quality Data (CSV)](./air-quality_all.csv)
 * [Download Columbus Pollutants Data (CSV)](./columbus-pollutants.csv)
 
-## Software
+
+
