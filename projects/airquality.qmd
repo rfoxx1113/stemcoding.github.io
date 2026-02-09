@@ -1,6 +1,6 @@
 ---
 title: "Air Quaity in Columbus"
-image: 
+image: "./air-quality_image.png"
 categories:
     - Intro HS
     - Math
@@ -16,7 +16,7 @@ categories:
 
 Analyze air quality from U.S. Environmental Protection Agency
 
-##Intro
+## Intro
 
 In this activity, we analyze air quality data collected by the U.S. Environmental Protection Agency. We will use a spreadsheet of Columbus pollutants to track PM2.5 levels and understand the Air Quality Index (AQI) over time
 
