@@ -1,6 +1,6 @@
 ---
 title: "Air Quaity in Columbus"
-image: "./air-quality_image.png"
+image: "../hazy_wildfire_sunset"
 categories:
     - Intro HS
     - Math
